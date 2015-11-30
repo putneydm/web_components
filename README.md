@@ -1,14 +1,9 @@
-#Basic site
-Uses Gulp, Bourbon and HTML5 Boilerplate to create a start for a basic website or prototyping.
+#Web components
 
-##Precis
-* Sass and sass linting
-* Linting and minification.
-* SVG spriting
-* Responsive image sizing via Gulp imageMagick plugin and image minification.
-* Modularization of HTML pages.
-* Base64 font encoding.
-* Markdown conversion for handling and adding content.
+Test files for preparations for a Web components presentation.  
+
+Uses Gulp, Bourbon and HTML5 Boilerplate.
+
 
 ##Installation
 * Clone
